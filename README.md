@@ -1,4 +1,4 @@
-# 「6月4日」最高速度19.3M/S，2024年Shadowrocket/V2ray/Clash/SSR每天更新免费节点订阅链接  更新时间 2024-06-04 20:14:04
+# 「6月4日」最高速度19.4M/S，2024年Shadowrocket/Clash/SSR/V2ray每天更新免费节点订阅链接  更新时间 2024-06-04 20:16:46
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashnode2024.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
